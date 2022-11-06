@@ -1,0 +1,27 @@
+body{
+    background-color: rosybrown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#header{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+blockquote{
+    text-align: center;
+}
+.nav{
+    color: white;
+    background-color: lightgoldenrodyellow;
+    border: 5px solid black;
+    padding: 20px 0; 
+    margin: 10px 0;
+    text-align: center;
+
+}
+.promo{
+    color: blueviolet;
+    text-align: center;
+}
